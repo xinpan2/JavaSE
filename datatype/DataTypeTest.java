@@ -42,6 +42,7 @@ public class DataTypeTest {
 
 		// 把float赋值给long,编译出错
 		// long long4=f1;
+		
 
 	}
 
