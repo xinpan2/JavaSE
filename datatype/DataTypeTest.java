@@ -21,7 +21,6 @@ public class DataTypeTest {
 
 		// 修改后再范围外：
 		long long3 = 10000000000L;
-		
 	}
 
 }
