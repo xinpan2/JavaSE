@@ -1,26 +1,27 @@
 package com.xinpaninava.datatype;
 
 /**
- * Ä¬ÈÏÊı¾İÀàĞÍ×ª»»µÄ²âÊÔÀà
+ * é»˜è®¤æ•°æ®ç±»å‹è½¬æ¢çš„æµ‹è¯•ç±»
  */
 public class DataTypeTest {
 
 	public static void main(String[] args) {
-		// ÔÚ·¶Î§ÄÚ
+		// åœ¨èŒƒå›´å†…
 		byte byte1 = 100;
 
-		// ÔÚ·¶Î§Íâ£¬±àÒëÆ÷±¨´í£¬ÒªÇóÇ¿ÖÆ×ª»»
+		// åœ¨èŒƒå›´å¤–ï¼Œç¼–è¯‘å™¨æŠ¥é”™ï¼Œè¦æ±‚å¼ºåˆ¶è½¬æ¢
 		// byte byte2 = 128;
 
 		// int to long
-		// ÔÚ·¶Î§ÄÚ 1 billion
+		// åœ¨èŒƒå›´å†… 1 billion
 		long long1 = 1000000000;
 
-		// ÔÚ·¶Î§Íâ 10 billion
+		// åœ¨èŒƒå›´å¤– 10 billion
 		// long long2=10000000000;
 
-		// ĞŞ¸ÄºóÔÙ·¶Î§Íâ£º
+		// ä¿®æ”¹åå†èŒƒå›´å¤–ï¼š
 		long long3 = 10000000000L;
+		
 	}
 
 }
