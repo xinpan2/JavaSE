@@ -1,4 +1,4 @@
-package com.xinpaninava.datatype;
+package com.xinpaninjava.datatype;
 
 /**
  * 默认数据类型转换的测试类
